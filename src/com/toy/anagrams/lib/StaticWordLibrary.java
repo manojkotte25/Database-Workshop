@@ -37,6 +37,7 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
 
     private static final String[] WORD_LIST = {
+        "This is a minor modification",
         "kotte",
         "manoj",
         "abstraction",
@@ -86,6 +87,7 @@ final class StaticWordLibrary extends WordLibrary {
         "traditional"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
+        "is a This modification minor ",
         "ktt",
         "mnaoj",
         "batsartcoin",
